@@ -19,11 +19,7 @@
 
 ### Language and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,python)](https://skills.thijs.gg)
-<img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
-<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img  width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,python,django,mongodb)](https://skills.thijs.gg)
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaince)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaganYILMAZ)](https://github.com/anuraghazra/github-readme-stats)
