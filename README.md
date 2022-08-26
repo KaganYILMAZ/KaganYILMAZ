@@ -19,7 +19,7 @@
 
 ### Language and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,python,django,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,python,django,mongodb)](https://skills.thijs.gg)
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaganYILMAZ)](https://github.com/anuraghazra/github-readme-stats)
